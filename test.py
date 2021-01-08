@@ -18,3 +18,4 @@ def testing(a, b):
     return a + b
 
 v = testing(1, 6)
+print(v)
